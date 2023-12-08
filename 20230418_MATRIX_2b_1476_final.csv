@@ -1,0 +1,1477 @@
+id_sp,ID,Group,weight,Critical_sites_access_mgmt,Disease_mgmt_gen,Disease_mgmt_phyto,Ecol_fire_regime,Forestry_mgmt,Grazing_mgmt,Habitat_restoration,Hydrology_mgmt,Inv_predator_mgmt,Inv_problem_bird_mgmt,Inv_rabbit_mgmt,Inv_weed_mgmt,Large_inv_herbivs,Native_hebivs_mgmt
+1-Alpine Sphagnum Bogs and Associated Fens,1,tec,1,1,1,0,1,0,1,0,1,1,0,0,1,1,0
+2-Aquatic Root Mat Community 1 in Caves of the Leeuwin Naturaliste Ridge,2,tec,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+3-Aquatic Root Mat Community 2 in Caves of the Leeuwin Naturaliste Ridge,3,tec,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+4-Aquatic Root Mat Community 3 in Caves of the Leeuwin Naturaliste Ridge,4,tec,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+5-Aquatic Root Mat Community 4 in Caves of the Leeuwin Naturaliste Ridge,5,tec,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+6-Aquatic Root Mat Community in Caves of the Swan Coastal Plain,6,tec,1,1,0,0,1,0,0,1,1,0,0,0,0,0,0
+7-Arnhem Plateau Sandstone Shrubland Complex,7,tec,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0
+8-Assemblages of plants and invertebrate animals of tumulus (organic mound) springs of the Swan Coastal Plain,8,tec,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0
+9-Assemblages of species associated with open-coast salt-wedge estuaries of western and central Victoria ecological community,9,tec,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0
+10-Banksia Woodlands of the Swan Coastal Plain ecological community,10,tec,1,1,0,1,1,0,0,1,1,1,0,1,0,1,1
+11-Blue Gum High Forest of the Sydney Basin Bioregion,11,tec,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+12-Brigalow (Acacia harpophylla dominant and co-dominant),12,tec,1,1,0,0,1,0,1,1,0,1,0,0,0,1,0
+13-Broad leaf tea-tree (Melaleuca viridiflora) woodlands in high rainfall coastal north Queensland,13,tec,1,1,1,0,1,0,1,1,1,0,0,0,0,1,0
+14-Buloke Woodlands of the Riverina and Murray-Darling Depression Bioregions,14,tec,1,0,0,0,1,0,1,1,1,0,0,1,0,1,1
+15-Castlereagh Scribbly Gum and Agnes Banks Woodlands of the Sydney Basin Bioregion,15,tec,1,1,1,0,1,0,0,1,1,1,1,0,0,0,0
+16-Central Hunter Valley eucalypt forest and woodland,16,tec,1,0,0,0,1,0,1,1,1,1,1,1,0,1,1
+17-Clay Pans of the Swan Coastal Plain,17,tec,1,1,0,1,1,0,0,1,1,1,0,1,0,1,0
+18-Coastal Swamp Oak (Casuarina glauca) Forest of New South Wales and South East Queensland ecological community,18,tec,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0
+19-Coastal Upland Swamps in the Sydney Basin Bioregion,19,tec,1,1,0,0,1,0,0,1,1,0,0,0,0,1,0
+20-Cooks River/Castlereagh Ironbark Forest of the Sydney Basin Bioregion,20,tec,1,0,0,1,1,0,1,1,1,1,1,1,0,0,0
+21-Coolibah - Black Box Woodlands of the Darling Riverine Plains and the Brigalow Belt South Bioregions,21,tec,1,1,0,0,0,0,1,1,1,0,0,1,0,1,1
+22-Corymbia calophylla - Kingia australis woodlands on heavy soils of the Swan Coastal Plain,22,tec,1,0,0,1,1,0,0,1,1,0,0,1,0,0,1
+23-Corymbia calophylla - Xanthorrhoea preissii woodlands and shrublands of the Swan Coastal Plain,23,tec,1,0,0,1,1,0,0,1,1,0,0,1,0,0,1
+24-Cumberland Plain Shale Woodlands and Shale-Gravel Transition Forest,24,tec,1,1,0,1,1,0,1,1,0,0,0,1,0,0,0
+25-Eastern Stirling Range Montane Heath and Thicket,25,tec,1,1,0,1,1,0,0,0,0,1,0,1,0,0,1
+26-Eastern Suburbs Banksia Scrub of the Sydney Region,26,tec,1,1,0,1,1,0,0,1,1,1,0,1,0,1,0
+27-Eucalypt Woodlands of the Western Australian Wheatbelt,27,tec,1,0,0,1,1,0,1,1,1,1,0,1,0,1,1
+28-Eucalyptus ovata - Callitris oblonga Forest,28,tec,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+29-Eyre Peninsula Blue Gum (Eucalyptus petiolaris) Woodland,29,tec,1,0,1,0,1,0,1,1,1,1,0,1,0,1,1
+30-Giant Kelp Marine Forests of South East Australia,30,tec,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+31-Gippsland Red Gum (Eucalyptus tereticornis subsp. mediana) Grassy Woodland and Associated Native Grassland,31,tec,1,1,1,0,1,0,1,1,0,1,1,1,0,0,0
+32-Grassy Eucalypt Woodland of the Victorian Volcanic Plain,32,tec,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+33-Grey Box (Eucalyptus microcarpa) Grassy Woodlands and Derived Native Grasslands of South-eastern Australia,33,tec,1,1,1,0,0,1,1,1,1,0,0,1,0,0,0
+34-Hunter Valley Weeping Myall (Acacia pendula) Woodland,34,tec,1,1,0,0,1,0,1,1,1,0,0,1,0,0,0
+35-Illawarra and south coast lowland forest and woodland ecological community,35,tec,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0
+36-Illawarra-Shoalhaven Subtropical Rainforest of the Sydney Basin Bioregion,36,tec,1,1,1,0,1,0,1,1,1,1,0,1,0,1,0
+37-Iron-grass Natural Temperate Grassland of South Australia,37,tec,1,1,0,0,1,0,1,1,0,1,0,1,0,1,1
+38-Kangaroo Island Narrow-leaved Mallee (Eucalyptus cneorifolia) Woodland,38,tec,1,0,0,1,1,0,1,1,1,1,0,0,0,0,1
+39-Littoral Rainforest and Coastal Vine Thickets of Eastern Australia,39,tec,1,1,1,0,1,0,1,1,0,1,0,1,0,1,0
+40-Lowland Grassy Woodland in the South East Corner Bioregion,40,tec,1,0,1,0,1,0,1,1,0,1,0,1,0,1,0
+41-Lowland Native Grasslands of Tasmania,41,tec,1,1,0,0,1,0,1,1,1,1,1,1,0,1,0
+42-Lowland Rainforest of Subtropical Australia,42,tec,1,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+43-Mabi Forest (Complex Notophyll Vine Forest 5b),43,tec,1,0,0,0,0,0,1,1,0,1,0,0,0,1,0
+44-Monsoon vine thickets on the coastal sand dunes of Dampier Peninsula,44,tec,1,0,0,1,1,0,0,1,1,1,0,0,0,1,0
+45-Natural Damp Grassland of the Victorian Coastal Plains,45,tec,1,0,0,0,1,0,1,1,1,1,1,1,0,1,0
+46-Natural Grasslands of the Murray Valley Plains,46,tec,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0
+47-Natural Grasslands of the Queensland Central Highlands and northern Fitzroy Basin,47,tec,1,1,0,0,0,0,1,1,0,1,0,1,0,0,0
+48-Natural grasslands on basalt and fine-textured alluvial plains of northern New South Wales and southern Queensland,48,tec,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+49-Natural Temperate Grassland of the South Eastern Highlands,49,tec,1,1,0,0,1,0,1,1,1,1,1,1,0,1,1
+50-Natural Temperate Grassland of the Victorian Volcanic Plain,50,tec,1,1,0,0,1,0,1,1,0,0,0,0,0,0,0
+51-New England Peppermint (Eucalyptus nova-anglica) Grassy Woodlands,51,tec,1,1,1,0,0,0,1,1,1,0,0,1,0,0,0
+52-Peppermint Box (Eucalyptus odorata) Grassy Woodland of South Australia,52,tec,1,1,0,0,1,0,1,1,1,1,1,1,0,1,1
+53-Perched Wetlands of the Wheatbelt region with extensive stands of living sheoak and paperbark across the lake floor (Toolibin Lake),53,tec,1,0,0,0,0,0,1,1,1,0,0,1,0,0,1
+54-Poplar Box Grassy Woodland on Alluvial Plains,54,tec,1,0,1,0,1,0,1,1,1,1,0,1,0,1,0
+55-Posidonia australis seagrass meadows of the Manning-Hawkesbury ecoregion,55,tec,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+56-Proteaceae Dominated Kwongkan Shrublands of the Southeast Coastal Floristic Province of Western Australia,56,tec,1,0,0,1,1,0,1,1,1,1,0,1,0,1,1
+57-Robertson Rainforest in the Sydney Basin Bioregion,57,tec,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0
+58-Scott River Ironstone Association,58,tec,1,0,0,1,1,0,1,1,1,0,0,1,0,0,1
+59-Seasonal Herbaceous Wetlands (Freshwater) of the Temperate Lowland Plains,59,tec,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0
+60-Sedgelands in Holocene dune swales of the southern Swan Coastal Plain,60,tec,1,1,0,0,1,0,1,1,1,0,0,1,0,1,1
+61-Semi-evergreen vine thickets of the Brigalow Belt (North and South) and Nandewar Bioregions,61,tec,1,0,0,0,1,0,1,1,0,1,0,1,0,1,1
+62-Shale Sandstone Transition Forest of the Sydney Basin Bioregion,62,tec,1,0,0,1,1,0,1,1,1,1,1,1,0,1,1
+63-Shrublands and Woodlands of the eastern Swan Coastal Plain,63,tec,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0
+64-Shrublands and Woodlands on Muchea Limestone of the Swan Coastal Plain,64,tec,1,0,0,1,1,0,0,1,1,0,0,1,0,0,1
+65-Shrublands and Woodlands on Perth to Gingin ironstone (Perth to Gingin ironstone association) of the Swan Coastal Plain,65,tec,1,0,0,1,1,0,1,1,1,0,0,1,0,0,1
+66-Shrublands on southern Swan Coastal Plain ironstones,66,tec,1,0,0,1,1,0,1,1,1,0,0,1,0,0,1
+67-Silurian Limestone Pomaderris Shrubland of the South East Corner and Australian Alps Bioregions,67,tec,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0
+68-Southern Highlands Shale Forest and Woodland in the Sydney Basin Bioregion,68,tec,1,1,0,0,1,0,1,1,0,1,1,1,0,1,1
+69-Subtropical and Temperate Coastal Saltmarsh,69,tec,1,1,0,0,1,0,1,1,1,0,0,1,0,1,0
+70-Swamp Tea-tree (Melaleuca irbyana) Forest of South-east Queensland,70,tec,1,1,0,0,0,0,1,1,0,1,1,1,0,0,0
+71-Swamps of the Fleurieu Peninsula,71,tec,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0
+72-Tasmanian Forests and Woodlands dominated by black gum or Brookers gum (Eucalyptus ovata / E. brookeriana),72,tec,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0
+73-Temperate Highland Peat Swamps on Sandstone,73,tec,1,0,0,0,1,1,1,1,1,1,0,1,0,1,0
+74-The community of native species dependent on natural discharge of groundwater from the Great Artesian Basin,74,tec,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0
+75-Thrombolite (microbial) community of coastal freshwater lakes of the Swan Coastal Plain (Lake Richmond),75,tec,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+76-Thrombolite (microbialite) Community of a Coastal Brackish Lake (Lake Clifton),76,tec,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+77-Tuart (Eucalyptus gomphocephala) Woodlands and Forests of the Swan Coastal Plain ecological community,77,tec,1,1,0,1,1,0,1,1,1,1,0,1,0,1,1
+78-Turpentine-Ironbark Forest of the Sydney Basin Bioregion,78,tec,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0
+79-Upland Basalt Eucalypt Forests of the Sydney Basin Bioregion,79,tec,1,1,0,0,1,0,1,1,0,1,0,1,0,1,0
+80-Upland Wetlands of the New England Tablelands (New England Tableland Bioregion) and the Monaro Plateau (South Eastern Highlands Bioregion),80,tec,1,0,0,0,0,0,1,1,1,1,0,1,0,0,0
+81-Weeping Myall Woodlands,81,tec,1,0,0,0,0,0,1,1,1,0,0,0,0,1,0
+82-Western Sydney Dry Rainforest and Moist Woodland on Shale,82,tec,1,1,1,0,1,0,1,1,0,1,1,1,0,1,0
+83-White Box-Yellow Box-Blakely's Red Gum Grassy Woodland and Derived Native Grassland,83,tec,1,1,0,1,1,0,1,1,1,1,1,1,0,1,0
+84-Acacia ammophila,84,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+85-Acacia anomala,85,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+86-Acacia aphylla,86,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+87-Acacia aprica,87,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+88-Acacia araneosa,88,species,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+89-Acacia aristulata,89,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+90-Acacia ataxiphylla subsp. magna,90,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+91-Acacia attenuata,91,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+92-Acacia auratiflora,92,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+93-Acacia awestoniana,93,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+94-Acacia axillaris,94,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+95-Acacia brachypoda,95,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+96-Acacia bynoeana,96,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,1
+97-Acacia chapmanii subsp. australis,97,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+98-Acacia cochlocarpa subsp. cochlocarpa,98,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+99-Acacia cochlocarpa subsp. velutinosa,99,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+100-Acacia constablei,100,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+101-Acacia courtii,101,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+102-Acacia cretacea,102,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1
+103-Acacia crombiei,103,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+104-Acacia curranii,104,species,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+105-Acacia denticulosa,105,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+106-Acacia deuteroneura,106,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+107-Acacia enterocarpa,107,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+108-Acacia equisetifolia,108,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+109-Acacia eremophiloides,109,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+110-Acacia flocktoniae,110,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+111-Acacia forrestiana,111,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+112-Acacia georgensis,112,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+113-Acacia glandulicarpa,113,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+114-Acacia gordonii,114,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+115-Acacia grandifolia,115,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+116-Acacia handonis,116,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+117-Acacia imitans,117,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+118-Acacia insolita subsp. recurva,118,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+119-Acacia lanuginophylla,119,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+120-Acacia latzii,120,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+121-Acacia lauta,121,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+122-Acacia leptalea,122,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+123-Acacia leptoneura,123,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+124-Acacia lobulata,124,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+125-Acacia macnuttiana,125,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+126-Acacia meiantha,126,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+127-Acacia menzelii,127,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+128-Acacia peuce,128,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+129-Acacia pharangites,129,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+130-Acacia phasmoides,130,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+131-Acacia pickardii,131,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+132-Acacia pinguifolia,132,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+133-Acacia porcata,133,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+134-Acacia praemorsa,134,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+135-Acacia praetermissa,135,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+136-Acacia pubescens,136,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+137-Acacia pubifolia,137,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+138-Acacia purpureopetala,138,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+139-Acacia pycnostachya,139,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+140-Acacia pygmaea,140,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+141-Acacia recurvata,141,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+142-Acacia rhamphophylla,142,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+143-Acacia rhetinocarpa,143,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+144-Acacia sciophanes,144,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+145-Acacia spilleriana,145,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+146-Acacia subflexuosa subsp. capillata,146,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+147-Acacia terminalis subsp. terminalis MS,147,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+148-Acacia undoolyana,148,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+149-Acacia unguicula,149,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+150-Acacia vassalii,150,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+151-Acacia volubilis,151,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+152-Acacia whibleyana,152,species,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0
+153-Acacia wilsonii,153,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+154-Acanthiza iredalei rosinae,154,species,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0
+155-Acanthiza pusilla archibaldi,155,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+156-Acanthocladium dockeri,156,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+157-Acanthophis hawkei,157,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+158-Acanthornis magna greeniana,158,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+159-Acriopsis emarginata,159,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+160-Acronychia littoralis,160,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+161-Acrophyllum australe,161,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+162-Actephila foetida,162,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+163-Actinotus schwarzii,163,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+164-Adclarkia cameroni,164,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+165-Adclarkia dawsonensis,165,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+166-Adclarkia dulacca,166,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+167-Adenanthos dobagii,167,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+168-Adenanthos eyrei,168,species,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+169-Adenanthos pungens subsp. effusus,169,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+170-Adenanthos pungens subsp. pungens,170,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+172-Allocasuarina emuina,172,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+173-Allocasuarina fibrosa,173,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+174-Allocasuarina glareicola,174,species,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+175-Allocasuarina portuensis,175,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+176-Allocasuarina robusta,176,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+177-Allocasuarina simulans,177,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+178-Allocasuarina tortiramula,178,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+179-Alloxylon flammeum,179,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+180-Ammobium craspedioides,180,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+181-Ammoniropa vigens,181,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+182-Amphibromus fluitans,182,species,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+183-Amytornis barbatus barbatus,183,species,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0
+184-Amytornis dorotheae,184,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+185-Amytornis merrotsyi merrotsyi,185,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+186-Amytornis merrotsyi pedleri,186,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+187-Amytornis modestus,187,species,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0
+188-Amytornis modestus obscurior,188,species,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0
+189-Amytornis textilis myall,189,species,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0
+190-Amytornis woodwardi,190,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+191-Andersonia annelsii,191,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+192-Andersonia axilliflora,192,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+193-Andersonia gracilis,193,species,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+194-Andersonia pinaster,194,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+195-Androcalva adenothalia,195,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+196-Androcalva bivillosa,196,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+197-Androcalva perlaria,197,species,1,0,0,0,1,0,0,1,1,0,0,1,0,0,1
+198-Androcalva procumbens,198,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+199-Androcalva rosea,199,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+200-Angophora inopina,200,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+201-Angophora robur,201,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+202-Anigozanthos bicolor subsp. minor,202,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+203-Anigozanthos viridis subsp. terraspectans,203,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+204-Anomalopus mackayi,204,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+205-Anous tenuirostris melanops,205,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+206-Antechinus argentus,206,species,1,0,0,0,1,0,0,0,0,1,0,0,1,1,0
+207-Antechinus arktos,207,species,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+208-Antechinus bellus,208,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+209-Antechinus minimus maritimus,209,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+210-Anthocercis gracilis,210,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+211-Anthochaera phrygia,211,species,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+212-Antipodia chaostola leucophaea,212,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+213-Apatophyllum olsenii,213,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+214-Apium prostratum subsp. Porongurup Range (G.J.Keighery 8631),214,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+215-Aponogeton bullosus,215,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+216-Aponogeton prolifer,216,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+217-Aprasia parapulchella,217,species,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+218-Aprasia pseudopulchella,218,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+219-Aquila audax fleayi,219,species,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0
+220-Archidendron lovelliae,220,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+221-Archontophoenix myolensis,221,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+222-Argynnis hyperbius inconstans,222,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+223-Aristida annua,223,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+224-Aristida granitica,224,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+225-Arthraxon hispidus,225,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+226-Asperula asthenes,226,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+227-Asplenium wildii,227,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+228-Astacopsis gouldi,228,species,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+229-Astelia australiana,229,species,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+230-Asterolasia elegans,230,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+231-Asterolasia nivea,231,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+232-Asterolasia phebalioides,232,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+233-Astrotricha crassifolia,233,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+234-Astrotricha roddii,234,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+235-Atalaya brevialata,235,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+236-Atalaya collina,236,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+237-Atrichornis clamosus,237,species,1,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+238-Atrichornis rufescens,238,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+239-Atriplex yeelirrie,239,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+240-Austrostipa bronwenae,240,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+241-Austrostipa jacobsiana,241,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+242-Austrostipa metatoris,242,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+243-Baeckea kandos,243,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+244-Baloghia marmorata,244,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+245-Baloskion longipes,245,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+246-Banksia anatona,246,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+247-Banksia aurantia,247,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+248-Banksia brownii,248,species,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+249-Banksia catoglypta,249,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+250-Banksia cuneata,250,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+251-Banksia fuscobractea,251,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+252-Banksia goodii,252,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+253-Banksia ionthocarpa,253,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+254-Banksia mimica,254,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+255-Banksia montana,255,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+256-Banksia nivea subsp. uliginosa,256,species,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+257-Banksia oligantha,257,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+258-Banksia pseudoplumosa,258,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+259-Banksia rufa subsp. pumila,259,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+260-Banksia serratuloides subsp. perissa,260,species,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+261-Banksia serratuloides subsp. serratuloides,261,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+262-Banksia sphaerocarpa var. dolichostyla,262,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+263-Banksia squarrosa subsp. argillacea,263,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+264-Banksia verticillata,264,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+265-Barbarea australis,265,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+266-Bellatorias obiri,266,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+267-Bertmainius colonus,267,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+268-Bertmainius tingle,268,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+269-Bertya calycina,269,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+270-Bertya granitica,270,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+271-Bertya ingramii,271,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+272-Bertya opponens,272,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+273-Bertya pinifolia,273,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+274-Bertya tasmanica subsp. tasmanica,274,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+275-Bettongia lesueur,275,species,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+276-Bettongia lesueur lesueur,276,species,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+277-Bettongia penicillata ogilbyi,277,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+278-Beyeria lepidopetala,278,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+279-Beyeria subtecta,279,species,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+280-Bidyanus bidyanus,280,species,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+281-Boronia adamsiana,281,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+282-Boronia capitata subsp. capitata,282,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+283-Boronia deanei,283,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+284-Boronia exilis,284,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+285-Boronia galbraithiae,285,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+286-Boronia granitica,286,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+287-Boronia gunnii,287,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+288-Boronia hemichiton,288,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+289-Boronia keysii,289,species,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+290-Boronia quadrilata,290,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+291-Boronia repanda,291,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+292-Boronia revoluta,292,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+293-Boronia umbellata,293,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+294-Boronia viridiflora,294,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+295-Borya mirabilis,295,species,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+296-Bossiaea oligosperma,296,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+297-Bossiaea peninsularis,297,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+298-Botaurus poiciloptilus,298,species,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+299-Bothriochloa bunyensis,299,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+301-Brachychiton sp. Ormeau (L.H.Bird AQ435851),301,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+302-Brachyscias verecundus,302,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+303-Brachyscome muelleri,303,species,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+304-Brachyscome muelleroides,304,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+305-Brachyscome papillosa,305,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+306-Bruguiera hainesii,306,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+307-Budawangia gnidioides,307,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+308-Bulbophyllum globuliforme,308,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+309-Bulbophyllum gracillimum,309,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+310-Bulbophyllum longiflorum,310,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+311-Burmannia sp. Bathurst Island (R.Fensham 1021),311,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+312-Burramys parvus,312,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+313-Caladenia actensis,313,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+314-Caladenia amoena,314,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+315-Caladenia anthracina,315,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+316-Caladenia argocalla,316,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+317-Caladenia atroclavia,317,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+318-Caladenia audasii,318,species,1,1,0,0,1,0,0,0,0,0,0,1,1,0,1
+319-Caladenia barbarella,319,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+320-Caladenia behrii,320,species,1,0,0,0,1,0,0,1,0,0,0,1,0,1,1
+321-Caladenia brumalis,321,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+322-Caladenia bryceana subsp. bryceana,322,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+323-Caladenia bryceana subsp. cracens,323,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+324-Caladenia busselliana,324,species,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+325-Caladenia caesarea subsp. maritima,325,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+326-Caladenia calcicola,326,species,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+327-Caladenia campbellii,327,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+328-Caladenia caudata,328,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+329-Caladenia christineae,329,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+330-Caladenia colorata,330,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+331-Caladenia concolor,331,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+332-Caladenia conferta,332,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+333-Caladenia dienema,333,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+334-Caladenia dorrienii,334,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+335-Caladenia elegans,335,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+336-Caladenia excelsa,336,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+337-Caladenia formosa,337,species,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+338-Caladenia fulva,338,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+339-Caladenia gladiolata,339,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+340-Caladenia graniticola,340,species,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+341-Caladenia granitora,341,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+342-Caladenia hastata,342,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+343-Caladenia hoffmanii,343,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+344-Caladenia hopperiana,344,species,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+345-Caladenia huegelii,345,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+346-Caladenia insularis,346,species,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+347-Caladenia intuta,347,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+348-Caladenia leucochila,348,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+349-Caladenia lindleyana,349,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+350-Caladenia lodgeana,350,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+351-Caladenia lowanensis,351,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+352-Caladenia luteola,352,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+353-Caladenia macroclavia,353,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+354-Caladenia melanema,354,species,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+355-Caladenia orientalis,355,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+356-Caladenia ornata,356,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+357-Caladenia pallida,357,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+358-Caladenia procera,358,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+359-Caladenia pumila,359,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+360-Caladenia richardsiorum,360,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1
+361-Caladenia rigida,361,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+362-Caladenia robinsonii,362,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+363-Caladenia saggicola,363,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+364-Caladenia sylvicola,364,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+365-Caladenia tensa,365,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+366-Caladenia tessellata,366,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+367-Caladenia thysanochila,367,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+368-Caladenia versicolor,368,species,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+369-Caladenia williamsiae,369,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+370-Caladenia xantholeuca,370,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+371-Calamanthus pyrrhopygius parkeri,371,species,1,1,0,1,1,0,0,1,0,1,0,1,0,0,1
+372-Calectasia cyanea,372,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+373-Calectasia pignattiana,373,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+377-Callistemon kenmorrisonii,377,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+378-Callistemon pungens,378,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+379-Callistemon wimmerensis,379,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+380-Callitris oblonga subsp. oblonga,380,species,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0
+381-Calochilus cupreus,381,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+382-Calochilus psednus,382,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+383-Calochilus richiae,383,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+384-Calophyllum bicolor,384,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+385-Calotis glandulosa,385,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+386-Calotis moorei,386,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+387-Calyptorhynchus banksii graptogyne,387,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+388-Calyptorhynchus banksii naso,388,species,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0
+389-Calyptorhynchus baudinii,389,species,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0
+390-Calyptorhynchus lathami halmaturinus,390,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+391-Calyptorhynchus latirostris,391,species,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+392-Calytrix breviseta subsp. breviseta,392,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+393-Calytrix gurulmundensis,393,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+394-Canarium acutifolium,394,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+395-Capparis thozetiana,395,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+399-Carronia pedicellata,400,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+400-Cassinia rugata,401,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+401-Cassinia tegulata,402,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+402-Casuarius casuarius johnsonii,403,species,1,1,1,0,0,0,0,1,0,0,0,0,0,1,0
+403-Centrolepis pedderensis,404,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+404-Cepobaculum carronii,405,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+405-Cereopsis novaehollandiae grisea,406,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+406-Ceyx azureus diemenensis,407,species,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0
+407-Chalinolobus dwyeri,408,species,1,1,0,0,0,0,0,1,1,1,0,0,0,1,0
+408-Chamelaucium sp. Cataby (G.J.Keighery 11009),409,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+409-Chamelaucium sp. Gingin (N.G.Marchant 6),410,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+410-Chamelaucium sp. S coastal plain (R.D.Royce 4872),411,species,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+413-Cheiranthera volubilis,414,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+415-Cherax tenuimanus,416,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+416-Chingia australis,417,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+417-Chlamydogobius micropterus,418,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+418-Chordifex abortivus,419,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+419-Chorizema humile,420,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+420-Clausena excavata,421,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+421-Clematis fawcettii,422,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+422-Codonocarpus pyramidalis,423,species,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+423-Colobanthus curtisiae,424,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+424-Comesperma oblongatum,425,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+425-Commersonia apella,426,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+426-Commersonia prostrata,427,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+427-Conilurus penicillatus,428,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+428-Conospermum densiflorum subsp. unicephalatum,429,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+429-Conospermum galeatum,430,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+430-Conospermum hookeri,431,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+431-Conospermum undulatum,432,species,1,1,0,0,1,0,0,1,0,0,0,1,0,0,0
+432-Conostylis dielsii subsp. teres,433,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+433-Conostylis drummondii,434,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+434-Conostylis lepidospermoides,435,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+435-Conostylis micrantha,436,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+436-Conostylis misera,437,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+437-Conostylis rogeri,438,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1
+438-Conostylis seorsiflora subsp. trichophylla,439,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+439-Conostylis setigera subsp. dasys,440,species,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+440-Coopernookia georgei,441,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+441-Coopernookia scabridiuscula,442,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+442-Corchorus cunninghamii,443,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+443-Corokia whiteana,444,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+444-Correa calycina,445,species,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+445-Correa eburnea,446,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+446-Correa lawrenceana var. genoensis,447,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+447-Corunastylis brachystachya,448,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+448-Corunastylis ectopa,449,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+449-Corunastylis insignis,450,species,1,1,0,0,1,0,0,1,0,0,0,1,0,1,0
+450-Corunastylis littoralis,451,species,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+451-Corunastylis sp. Charmhaven (NSW 896673),452,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+452-Corybas dentatus,453,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+453-Corybas montanus,454,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+454-Corymbia clandestina,455,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+455-Corymbia leptoloma,456,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+456-Corymbia rhodops,457,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+457-Corymbia xanthope,458,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+458-Corynocarpus rupestris subsp. rupestris,459,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+459-Cossinia australiana,460,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+460-Craspedia preminghana,461,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+461-Craterocephalus fluviatilis,462,species,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+462-Crepidium lawleri,463,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+463-Crinia sloanei,464,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+464-Cryptocarya foetida,465,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+465-Ctenophorus yinnietharra,466,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+466-Ctenopterella blechnoides,467,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+467-Ctenotus lancelini,468,species,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+468-Ctenotus zastictus,469,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+469-Cupaniopsis shirleyana,470,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+470-Cupaniopsis tomentella,471,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+471-Cyathea exilis,472,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+472-Cycas megacarpa,473,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+473-Cycas ophiolitica,474,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+474-Cycas platyphylla,475,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+475-Cyclodomorphus praealtus,476,species,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0
+476-Cyclophyllum costatum,477,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+477-Cyclopsitta diophthalma coxeni,478,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+478-Cynanchum elegans,479,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+479-Cyperus cephalotes,480,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+480-Cyphanthera odgersii subsp. occidentalis,481,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+481-Daphnandra johnsonii,482,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+482-Darwinia acerosa,483,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+483-Darwinia biflora,484,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+484-Darwinia carnea,485,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+485-Darwinia chapmaniana,486,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+486-Darwinia collina,487,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+487-Darwinia ferricola,488,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+488-Darwinia foetida,489,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+489-Darwinia masonii,490,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+490-Darwinia meeboldii,491,species,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+491-Darwinia oxylepis,492,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+492-Darwinia squarrosa,493,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+493-Darwinia wittwerorum,494,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+494-Dasymalla axillaris,495,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+495-Dasyornis longirostris,496,species,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+496-Dasyurus geoffroii,497,species,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+497-Dasyurus hallucatus,498,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+498-Dasyurus maculatus gracilis,499,species,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+499-Dasyurus maculatus maculatus (SE mainland population),500,species,1,1,1,0,1,0,0,1,0,1,0,0,0,0,1
+500-Dasyurus maculatus maculatus (Tasmanian population),501,species,1,1,1,0,1,0,0,1,0,1,0,0,0,0,1
+501-Dasyurus viverrinus,502,species,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+502-Davidsonia jerseyana,503,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+503-Davidsonia johnsonii,504,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+504-Daviesia cunderdin,505,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+505-Daviesia dielsii,506,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+506-Daviesia discolor,507,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+507-Daviesia elongata subsp. elongata,508,species,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+508-Daviesia euphorbioides,509,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+509-Daviesia laevis,510,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+510-Daviesia megacalyx,511,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+511-Daviesia microcarpa,512,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+512-Daviesia obovata,513,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+513-Daviesia ovata,514,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+514-Daviesia pseudaphylla,515,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+515-Daviesia speciosa,516,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+516-Decaspermum struckoilicum,517,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+517-Delma impar,518,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+518-Delma torquata,519,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+519-Dendrobium antennatum,520,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+520-Dendrobium bigibbum,521,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+521-Dendrobium johannis,522,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+522-Dendrobium mirbelianum,523,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+523-Dendrobium nindii,524,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+524-Denhamia parvifolia,525,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+526-Desmodium acanthocladum,527,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+527-Deyeuxia appressa,528,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+528-Deyeuxia pungens,529,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+529-Dianella amoena,530,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+530-Dichanthium queenslandicum,531,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+531-Dichanthium setosum,532,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+533-Diomedea antipodensis gibsoni,534,species,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+535-Diospyros mabacea,538,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+536-Diplazium cordifolium,539,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+537-Diplazium pallidum,540,species,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+538-Diploglottis campbellii,541,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+539-Diplolaena andrewsii,542,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+540-Dipodium campanulatum,543,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+541-Dipodium pictum,544,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+542-Dischidia litoralis,545,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+543-Diuris basaltica,546,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+544-Diuris drummondii,547,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+545-Diuris eborensis,548,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+546-Diuris flavescens,549,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+547-Diuris fragrantissima,550,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+548-Diuris lanceolata,551,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+549-Diuris micrantha,552,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+550-Diuris pedunculata,553,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+551-Diuris praecox,554,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+552-Diuris purdiei,555,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+553-Diuris venosa,556,species,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+554-Dodonaea procumbens,557,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+555-Dodonaea rupicola,558,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+556-Dodonaea subglandulifera,559,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+557-Drakaea concolor,560,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+558-Drakaea confluens,561,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+559-Drakaea isolata,562,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+560-Drakaea micrantha,563,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+561-Drosera prolifera,564,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+562-Drosera schizandra,565,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+563-Drummondita ericoides,566,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+564-Drummondita longifolia,567,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+565-Duma horrida subsp. abdita,568,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+566-Egernia rugosa,569,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+567-Egernia stokesii badia,570,species,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+568-Eidothea hardeniana,571,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+569-Elaeocarpus williamsianus,572,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+570-Eleocharis keigheryi,573,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+571-Eleocharis obicis,574,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+572-Eleocharis papillosa,575,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+573-Eleocharis retroflexa,576,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+574-Elseya albagula,577,species,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+575-Elseya lavarackorum,578,species,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+576-Elusor macrurus,579,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+577-Endiandra cooperana,580,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+578-Endiandra floydii,581,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+579-Endiandra hayesii,582,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+580-Engaeus granulatus,583,species,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+581-Engaeus martigener,584,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+582-Engaeus orramakunna,585,species,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+583-Engaeus spinicaudatus,586,species,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+584-Engaeus yabbimunna,587,species,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+585-Engaewa pseudoreducta,588,species,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+586-Engaewa reducta,589,species,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+587-Engaewa walpolea,590,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+588-Epacris barbata,591,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+589-Epacris exserta,592,species,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+590-Epacris grandis,593,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+591-Epacris graniticola,594,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+592-Epacris hamiltonii,595,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+593-Epacris limbata,596,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+594-Epacris stuartii,597,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+595-Epacris virgata,598,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+596-Epilobium brunnescens subsp. beaugleholei,599,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+597-Epthianura crocea macgregori,601,species,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0
+598-Epthianura crocea tunneyi,602,species,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0
+599-Eremochloa muricata,603,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+600-Eremophila denticulata subsp. denticulata,604,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+601-Eremophila denticulata subsp. trisulcata,605,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+602-Eremophila glabra subsp. chlorella,606,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+603-Eremophila koobabbiensis,607,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+604-Eremophila lactea,608,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+605-Eremophila nivea,609,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+606-Eremophila prostrata,610,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+607-Eremophila resinosa,611,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+608-Eremophila rostrata,612,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+609-Eremophila scaberula,613,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+610-Eremophila subteretifolia,614,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+611-Eremophila ternifolia,615,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+612-Eremophila vernicosa,616,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+613-Eremophila verticillata,617,species,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+614-Eremophila virens,618,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+615-Eremophila viscida,619,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+616-Eriocaulon australasicum,620,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+617-Eriocaulon carsonii,621,species,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+618-Eryngium fontanum,622,species,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+619-Erythrotriorchis radiatus,623,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+620-Erythrura gouldiae,624,species,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+621-Euastacus bispinosus,625,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+622-Euastacus dharawalus,626,species,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+623-Eucalyptus absita,627,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+624-Eucalyptus alligatrix subsp. limaensis,628,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+625-Eucalyptus alligatrix subsp. miscella,629,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+626-Eucalyptus aquatica,630,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+627-Eucalyptus argophloia,631,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+628-Eucalyptus articulata,632,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+629-Eucalyptus beaniana,633,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+630-Eucalyptus beardiana,634,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+631-Eucalyptus benthamii,635,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+632-Eucalyptus cadens,636,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+633-Eucalyptus caleyi subsp. ovendenii,637,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+634-Eucalyptus canobolensis,638,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+635-Eucalyptus ceracea,639,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+636-Eucalyptus copulans,640,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+637-Eucalyptus coronata,641,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+638-Eucalyptus crenulata,642,species,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+639-Eucalyptus crispata,643,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+640-Eucalyptus crucis subsp. crucis,644,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+641-Eucalyptus crucis subsp. praecipua,645,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+642-Eucalyptus cuprea,646,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+643-Eucalyptus dolorosa,647,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+644-Eucalyptus glaucina,648,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+645-Eucalyptus gunnii subsp. divaricata,649,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+646-Eucalyptus hallii,650,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+647-Eucalyptus impensa,651,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+648-Eucalyptus infera,652,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+649-Eucalyptus insularis,653,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+650-Eucalyptus johnsoniana,654,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+651-Eucalyptus kabiana,655,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+652-Eucalyptus lateritica,656,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+653-Eucalyptus leprophloia,657,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+654-Eucalyptus macarthurii,658,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+655-Eucalyptus mckieana,659,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+656-Eucalyptus merrickiae,660,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+657-Eucalyptus mooreana,661,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+658-Eucalyptus morrisbyi,662,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+659-Eucalyptus nicholii,663,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+660-Eucalyptus pachycalyx subsp. banyabba,664,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+661-Eucalyptus paedoglauca,665,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+662-Eucalyptus paludicola,666,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+663-Eucalyptus parramattensis subsp. decadens,667,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+664-Eucalyptus parvula,668,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+665-Eucalyptus platydisca,669,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+666-Eucalyptus pulverulenta,670,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+667-Eucalyptus raveretiana,671,species,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+668-Eucalyptus recta,672,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+669-Eucalyptus recurva,673,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+670-Eucalyptus rhodantha,674,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+671-Eucalyptus robertsonii subsp. hemisphaerica,675,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+672-Eucalyptus rubida subsp. barbigerorum,676,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"673-Eucalyptus sp. Cattai (Gregson s.n., 28 Aug 1954)",677,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+674-Eucalyptus sp. Howes Swamp Creek (M.Doherty 26),678,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+675-Eucalyptus suberea,679,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+676-Eucalyptus tetrapleura,680,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+677-Eucalyptus virens,681,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+678-Eucalyptus x balanites,682,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+679-Eucalyptus x phylacis,683,species,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+680-Eulamprus leuraensis,684,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+681-Eulamprus tympanum marnieae,685,species,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0
+682-Euphorbia carissoides,686,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+683-Euphorbia obliqua,687,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+684-Euphrasia amphisysepala,688,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+685-Euphrasia bowdeniae,689,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+686-Euphrasia collina subsp. muelleri,690,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+687-Euphrasia collina subsp. osbornii,691,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+688-Euphrasia crassiuscula subsp. glandulifera,692,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+689-Euphrasia eichleri,693,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+690-Euphrasia fragosa,694,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+691-Euphrasia gibbsiae subsp. psilantherea,695,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+692-Euphrasia semipicta,696,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+693-Euphrasia sp. Bivouac Bay (W.R.Barker 7626 et al.),697,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+694-Falcunculus frontatus whitei,698,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+695-Fimbristylis adjuncta,699,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+696-Floydia praealta,700,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+697-Fontainea australis,701,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+698-Fontainea rostrata,702,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+699-Fontainea venosa,703,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+700-Frankenia conferta,704,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+701-Frankenia parvula,705,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+702-Frankenia plicata,706,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+703-Fregetta grallaria grallaria,707,species,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+704-Furina dunmalli,708,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+705-Galaxias fontanus,709,species,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+706-Galaxias fuscus,710,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+707-Galaxias johnstoni,711,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+709-Galaxias rostratus,713,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+710-Galaxias tanycephalus,714,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+711-Galaxiella nigrostriata,715,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+712-Galaxiella pusilla,716,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+713-Gardenia actinocarpa,717,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+714-Gardenia psidioides,718,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+715-Gastrolobium argyrotrichum,719,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+716-Gastrolobium diabolophyllum,720,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+717-Gastrolobium glaucum,721,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+718-Gastrolobium graniticum,722,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+719-Gastrolobium hamulosum,723,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+720-Gastrolobium humile,724,species,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+721-Gastrolobium lehmannii,725,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+722-Gastrolobium luteifolium,726,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+723-Gastrolobium papilio,727,species,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+724-Gastrolobium vestitum,728,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+725-Gaultheria viridicarpa J.B.Williams subsp. viridicarpa ms.,729,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+726-Genoplesium baueri,730,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+727-Genoplesium plumosum,731,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+728-Genoplesium rhyoliticum,732,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+729-Genoplesium tectum,733,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+730-Genoplesium vernale,734,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+731-Gentiana baeuerlenii,735,species,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+732-Gentiana bredboensis,736,species,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+733-Gentiana wingecarribiensis,737,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+734-Gentiana wissmannii,738,species,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0
+735-Geocrinia alba,739,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+736-Geophaps scripta scripta,740,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+737-Geophaps smithii blaauwi,741,species,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0
+738-Geophaps smithii smithii,742,species,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0
+739-Germainia capitata,743,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+740-Gingidia rupicola,744,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+741-Glyceria drummondii,745,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+742-Glycine latrobeana,746,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+743-Glyphis garricki,747,species,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+744-Glyphis glyphis,748,species,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+745-Goodenia arthrotricha,749,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+746-Goodenia integerrima,750,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+747-Goodenia quadrifida,751,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+748-Gossia gonoclada,752,species,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0
+749-Grantiella picta,753,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+750-Graptophyllum ilicifolium,754,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+751-Graptophyllum reticulatum,755,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+752-Grevillea acanthifolia subsp. paludosa,756,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+753-Grevillea althoferorum,757,species,1,0,0,1,1,0,0,1,0,0,0,1,0,0,1
+754-Grevillea banyabba,758,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+755-Grevillea batrachioides,759,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+756-Grevillea beadleana,760,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+757-Grevillea bedggoodiana,761,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+758-Grevillea brachystylis subsp. australis,762,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+759-Grevillea brachystylis subsp. grandis,763,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+760-Grevillea bracteosa subsp. howatharra,764,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+761-Grevillea caleyi,765,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+762-Grevillea calliantha,766,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+763-Grevillea celata,767,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+764-Grevillea christineae,768,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+765-Grevillea corrugata,769,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+766-Grevillea curviloba subsp. curviloba,770,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+767-Grevillea curviloba subsp. incurva,771,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+768-Grevillea dryandroides subsp. dryandroides,772,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+769-Grevillea dryandroides subsp. hirsuta,773,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+770-Grevillea elongata,774,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+771-Grevillea evansiana,775,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+772-Grevillea flexuosa,776,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+773-Grevillea glossadenia,777,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+774-Grevillea guthrieana,778,species,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+775-Grevillea humifusa,779,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+776-Grevillea iaspicula,780,species,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+777-Grevillea infecunda,781,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+778-Grevillea infundibularis,782,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+779-Grevillea involucrata,783,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+780-Grevillea kennedyana,784,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+781-Grevillea maccutcheonii,785,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+782-Grevillea maxwellii,786,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+783-Grevillea mollis,787,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+784-Grevillea molyneuxii,788,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+785-Grevillea montis-cole subsp. brevistyla,789,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+786-Grevillea murex,790,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+787-Grevillea parviflora subsp. parviflora,791,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+788-Grevillea pythara,792,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+789-Grevillea quadricauda,793,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+790-Grevillea rara,794,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+791-Grevillea rhizomatosa,795,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+792-Grevillea scapigera,796,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+793-Grevillea scortechinii subsp. scortechinii,797,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+794-Grevillea shiressii,798,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+795-Grevillea sp. Gillingarra (R.J.Cranfield 4087),799,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+796-Grevillea thelemanniana,800,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+797-Grevillea treueriana,801,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+798-Guichenotia seorsiflora,802,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+799-Gymnobelideus leadbeateri,803,species,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+800-Gyrostemon reticulatus,804,species,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+801-Habenaria maccraithii,805,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+802-Hakea aculeata,806,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+803-Hakea archaeoides,807,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+804-Hakea dohertyi,808,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+805-Hakea maconochieana,809,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+806-Hakea megalosperma,810,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+807-Hakea pulvinifera,811,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+808-Hakea trineura,812,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+809-Haloragis exalata subsp. exalata,813,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+810-Haloragis exalata subsp. velutina,814,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+811-Haloragis platycarpa,815,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+812-Heleioporus australiacus,816,species,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+813-Helicteres macrothrix,817,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+814-Hemiandra gardneri,818,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+815-Hemiandra rutilans,819,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+816-Hemigenia ramosissima,820,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1
+817-Hensmania chapmanii,821,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+818-Hexaspora pubescens,822,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+819-Hibbertia abyssus,823,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+820-Hibbertia basaltica,824,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+821-Hibbertia crispula,825,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+822-Hibbertia humifusa subsp. debilis,826,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+823-Hibbertia humifusa subsp. erigens,827,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+824-Hibbertia priceana,828,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+825-Hibbertia puberula subsp. glabrescens,829,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+826-Hibbertia spanantha,830,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+827-Hibiscus brennanii,831,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+828-Hibiscus cravenii,832,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+829-Hicksbeachia pinnatifolia,833,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+830-Hipposideros inornatus,834,species,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0
+831-Hipposideros semoni,835,species,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0
+833-Homopholis belsonii,837,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+834-Homoranthus darwinioides,838,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+835-Homoranthus decumbens,839,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+836-Homoranthus lunatus,840,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+837-Homoranthus porteri,841,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+838-Homoranthus prolixus,842,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+839-Hoplocephalus bungaroides,843,species,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+840-Hoplogonus bornemisszai,844,species,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+841-Hoplogonus simsoni,845,species,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0
+842-Hoplogonus vanderschoori,846,species,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0
+843-Hoya australis subsp. oramicola,847,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+844-Hybanthus cymulosus,848,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+845-Hydriastele costata,849,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+848-Hypocalymma angustifolium subsp. Hutt River (S.Patrick 2982),850,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+846-Hypocalymma longifolium,851,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+847-Hypocalymma sylvestre,852,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+849-Hyridella glenelgensis,853,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+850-Idiosoma nigrum,854,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+851-Indigofera efoliata,855,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+852-Isoodon auratus auratus,856,species,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+853-Isoodon auratus barrowensis,857,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+854-Isoodon obesulus nauticus,858,species,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+855-Isoodon obesulus obesulus,859,species,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+856-Isopogon fletcheri,860,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+857-Isopogon robustus,861,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+858-Isopogon uncinatus,862,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+859-Ixodia achillaeoides subsp. arenicola,863,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+860-Jacksonia pungens,864,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+861-Jacksonia quairading,865,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+862-Jacksonia velveta,866,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+863-Kardomia granitica,867,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+864-Kelleria bogongensis,868,species,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+865-Kennedia glabrata,869,species,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+866-Kennedia lateritia,870,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+867-Kennedia retrorsa,871,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+868-Kumonga exleyi,872,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+869-Kunzea ericifolia subsp. subulata,873,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+870-Kunzea rupestris,874,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+871-Kunzea similis subsp. similis,875,species,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+872-Lachnagrostis adamsonii,876,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+873-Lagorchestes conspicillatus conspicillatus,877,species,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0
+874-Lagorchestes hirsutus bernieri,878,species,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+875-Lagorchestes hirsutus Central Australian subspecies,879,species,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+876-Lagorchestes hirsutus dorreae,880,species,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+877-Lagostrophus fasciatus fasciatus,881,species,1,0,1,0,1,0,1,1,0,1,0,1,0,0,0
+878-Lambertia echinata subsp. echinata,882,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+879-Lambertia echinata subsp. occidentalis,883,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+880-Lasiopetalum joyceae,884,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+881-Lasiopetalum rotundifolium,885,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+882-Lasiorhinus krefftii,886,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+883-Lastreopsis walleri,887,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+884-Lathamus discolor,888,species,1,1,1,0,1,1,0,1,0,0,1,0,0,0,1
+885-Latrobea colophona,889,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+886-Lawrencia buchananensis,890,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+887-Lechenaultia chlorantha,891,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+888-Lechenaultia laricina,892,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+889-Leiocarpa gatesii,893,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+890-Leionema obtusifolium,894,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+891-Leionema sympetalum,895,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+892-Leioproctus douglasiellus,896,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+893-Leipoa ocellata,897,species,1,1,0,0,1,0,0,1,0,1,0,1,0,1,1
+894-Lepidium aschersonii,898,species,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0
+895-Lepidium ginninderrense,899,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+896-Lepidium hyssopifolium,900,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+897-Lepidium monoplocoides,901,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+898-Lepidium peregrinum,902,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+899-Lepidium pseudopapillosum,903,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+901-Leporillus conditor,905,species,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+902-Leptomeria dielsiana,906,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+903-Leptospermum deanei,907,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+904-Leptospermum thompsonii,908,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+905-Lerista allanae,909,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+906-Lerista nevinae,910,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+907-Lerista vittata,911,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+908-Leucochrysum albicans subsp. tricolor,912,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+909-Leucopogon confertus,913,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+910-Leucopogon exolasius,914,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+911-Leucopogon gnaphalioides,915,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+912-Leucopogon marginatus,916,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+913-Leucopogon nitidus,917,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+914-Leucopogon obtectus,918,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+915-Leucopogon sp. Coolmunda (D.Halford Q1635),919,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"916-Leucopogon sp. Flynn (F.Hort, J.Hort & A.Lowrie 859)",920,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+917-Leucopogon sp. Ongerup (A.S. George 16682),921,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+918-Leucopogon spectabilis,922,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+919-Liasis olivaceus barroni,923,species,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+920-Lichenostomus melanops cassidix,924,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+921-Limonium australe var. baudinii,925,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+922-Limosa lapponica baueri,926,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+923-Limosa lapponica menzbieri,927,species,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0
+924-Limosella granitica,928,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+925-Liopholis guthega,929,species,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+926-Liopholis kintorei,930,species,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0
+927-Liopholis pulchra longicauda,931,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+928-Liopholis slateri slateri,932,species,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+929-Lissotes latidens,933,species,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+930-Litoria aurea,934,species,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0
+931-Litoria booroolongensis,935,species,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+932-Litoria castanea,936,species,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+933-Litoria dayi,937,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+934-Litoria littlejohni,938,species,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+935-Litoria lorica,939,species,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+936-Litoria myola,940,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+937-Litoria nannotis,941,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+938-Litoria nyakalensis,942,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+939-Litoria olongburensis,943,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+940-Litoria piperata,944,species,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+941-Litoria raniformis,945,species,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0
+942-Litoria rheocola,946,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+943-Litoria spenceri,947,species,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+944-Litoria verreauxii alpina,948,species,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+945-Livistona lanuginosa,949,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+946-Livistona mariae subsp. mariae,950,species,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+947-Logania diffusa,951,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+948-Lomatia tasmanica,952,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+949-Lucasium occultum,953,species,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+950-Lychnothamnus barbatus,954,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+951-Lysiosepalum abollatum,955,species,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1
+952-Macadamia integrifolia,956,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+953-Macadamia jansenii,957,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+954-Macadamia ternifolia,958,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+955-Macadamia tetraphylla,959,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+956-Macarthuria keigheryi,960,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+957-Maccullochella ikei,961,species,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+958-Maccullochella macquariensis,962,species,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+959-Maccullochella mariensis,963,species,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1
+960-Macquaria australasica,964,species,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0
+962-Macropteranthes montana,966,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+963-Macrotis lagotis,967,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+964-Macrozamia conferta,968,species,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+965-Macrozamia cranei,969,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+966-Macrozamia macdonnellii,970,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+967-Macrozamia machinii,971,species,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+968-Macrozamia occidua,972,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+969-Macrozamia parcifolia,973,species,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+970-Macrozamia pauli-guilielmi,974,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+971-Macrozamia platyrhachis,975,species,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+972-Maireana cheelii,976,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+973-Malurus coronatus coronatus,977,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+974-Malurus leucopterus edouardi,978,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+975-Malurus leucopterus leucopterus,979,species,1,0,0,0,1,0,0,0,0,1,0,0,0,1,0
+976-Manorina melanotis,980,species,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+977-Marianthus paralius,981,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+978-Marsdenia brevifolia,982,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+979-Marsdenia longiloba,983,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+980-Marsdenia paludicola,984,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+981-Mastacomys fuscus mordicus,985,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+982-Medicosma elliptica,986,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+983-Medicosma obovata,987,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+984-Megascolides australis,988,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+985-Melaleuca biconvexa,989,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+986-Melaleuca kunzeoides,990,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+987-Melaleuca sciotostyla,991,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+988-Melanodryas cucullata melvillensis,992,species,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+989-Melanotaenia eachamensis,993,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+990-Melichrus sp. Gibberagee (Benwell 97239),994,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+991-Melichrus sp. Newfoundland State Forest (P.Gilmour 7852),995,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+992-Mesembriomys gouldii gouldii,996,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+993-Mesembriomys gouldii melvillensis,997,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+994-Mesembriomys gouldii rattoides,998,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+995-Mesodontrachia fitzroyana,999,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+996-Microcarpaea agonis,1000,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+997-Microcorys eremophiloides,1001,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+998-Microlepidium alatum,1002,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+999-Micromyrtus blakelyi,1003,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1000-Micromyrtus grandis,1004,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1001-Micromyrtus minutiflora,1005,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1002-Micropathus kiernani,1006,species,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+1003-Microtis globula,1007,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1004-Milyeringa veritas,1008,species,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+1005-Minuria tridens,1009,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1006-Mirafra javanica melvillensis,1010,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+1007-Mitrella tiwiensis,1011,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1008-Mixophyes balbus,1012,species,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+1009-Mixophyes fleayi,1013,species,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+1010-Mixophyes iteratus,1014,species,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+1011-Mogurnda clivicola,1015,species,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0
+1012-Muehlenbeckia tuggeranong,1016,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1013-Myoporum cordifolium,1017,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1014-Myriophyllum coronatum,1018,species,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+1015-Myriophyllum lapidicola,1019,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1016-Myriophyllum porcatum,1020,species,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1017-Myrmecobius fasciatus,1021,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1018-Myrmecodia beccarii,1022,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1019-Nannatherina balstoni,1023,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1020-Nannoperca obscura,1024,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1021-Nannoperca oxleyana,1025,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1022-Nannoperca variegata,1026,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1024-Neisosperma kilneri,1028,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1025-Nematolepis frondosa,1029,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1026-Nematolepis rhytidophylla,1030,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1027-Nematolepis squamea subsp. coriacea,1031,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1028-Nematolepis wilsonii,1032,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1029-Neoceratodus forsteri,1033,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1030-Neochmia phaeton evangelinae,1034,species,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+1031-Neochmia ruficauda ruficauda,1035,species,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+1032-Neophoca cinerea,1036,species,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1033-Neoroepera buxifolia,1037,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1034-Newcastelia velutina,1038,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1035-Notechis scutatus ater,1039,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1036-Notelaea ipsviciensis,1040,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1037-Notelaea lloydii,1041,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1038-Notomys fuscus,1042,species,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+1040-Nyctophilus corbeni,1044,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1041-Ochrosia moorei,1045,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1042-Ogyris subterrestris petrina,1046,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1043-Olax angulata,1047,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1044-Olearia arckaringensis,1048,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1045-Olearia cordata,1049,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1046-Olearia flocktoniae,1050,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1047-Olearia macdonnellensis,1051,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1048-Olearia microdisca,1052,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+1049-Omphalea celata,1053,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1050-Onychogalea fraenata,1054,species,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+1051-Ophidiocephalus taeniatus,1055,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+1052-Ophisternon candidum,1056,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1053-Ordtrachia septentrionalis,1057,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1054-Oreisplanus munionga larana,1058,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1055-Oreixenica ptunarra,1059,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1056-Oreogrammitis reinwardtii,1060,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1057-Osphranter robustus isabellinus,1061,species,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+1058-Owenia cepiodora,1062,species,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+1059-Ozothamnus eriocephalus,1063,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1060-Ozothamnus reflexifolius,1064,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1061-Ozothamnus tesselatus,1065,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1062-Pachycephala rufogularis,1066,species,1,0,0,0,1,1,0,1,0,1,0,1,0,1,0
+1064-Pandanus spiralis var. flammeus,1067,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1065-Paracaleana dixonii,1068,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1066-Paralucia pyrodiscus lucida,1069,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1067-Paralucia spinifera,1070,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+1068-Parantechinus apicalis,1071,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1069-Pardalotus quadragintus,1072,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1070-Parsonsia dorrigoensis,1073,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1071-Parsonsia larcomensis,1074,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1072-Paspalidium grandispiculatum,1075,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1073-Patersonia spirifolia,1076,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1074-Pedionomus torquatus,1077,species,1,1,0,0,0,0,0,1,0,1,0,1,0,0,1
+1075-Pelargonium sp. Striatellum (G.W.Carr 10345),1078,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1076-Perameles bougainville bougainville,1079,species,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+1077-Perameles gunnii gunnii,1080,species,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0
+1078-Perameles gunnii Victorian subspecies,1081,species,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0
+1079-Persoonia acerosa,1082,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1080-Persoonia hirsuta,1083,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+1081-Persoonia marginata,1084,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1082-Persoonia micranthera,1085,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+1083-Persoonia mollis subsp. maxima,1086,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1084-Persoonia nutans,1087,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1085-Persoonia pauciflora,1088,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1086-Petauroides volans,1089,species,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+1087-Petaurus australis Wet Tropics subspecies,1090,species,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0
+1088-Petrogale coenensis,1091,species,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1089-Petrogale concinna canescens,1092,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1090-Petrogale concinna concinna,1093,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1091-Petrogale concinna monastria,1094,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1094-Petrogale lateralis centralis,1095,species,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+1092-Petrogale lateralis hacketti,1096,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1093-Petrogale lateralis lateralis,1097,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+1095-Petrogale penicillata,1098,species,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+1096-Petrogale persephone,1099,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+1097-Petrogale sharmani,1100,species,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+1098-Petrogale xanthopus celeris,1101,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1099-Petrogale xanthopus xanthopus,1102,species,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+1100-Petrophile latericola,1103,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+1101-Petrophile nivea,1104,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1103-Pezoporus flaviventris,1105,species,1,1,0,0,1,0,0,1,0,1,0,1,0,1,0
+1102-Pezoporus occidentalis,1106,species,1,1,0,1,1,0,0,1,0,1,0,0,0,0,0
+1104-Phaius australis,1107,species,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+1105-Phaius bernaysii,1108,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1106-Phaius pictus,1109,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1107-Phalaenopsis amabilis subsp. rosenstromii,1110,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1108-Phaleria biflora,1111,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1109-Phascogale calura,1112,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1110-Phascogale pirata,1113,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1111-Phascogale tapoatafa kimberleyensis,1114,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+"1112-Phascolarctos cinereus (combined populations of Qld, NSW and the ACT)",1115,species,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0
+1113-Phebalium daviesii,1116,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+1114-Phebalium distans,1117,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1115-Phebalium glandulosum subsp. eglandulosum,1118,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1116-Phebalium lowanense,1119,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1117-Phebalium whitei,1120,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1118-Pherosphaera fitzgeraldii,1121,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1119-Philoria frosti,1122,species,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+1120-Philotheca basistyla,1123,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+1121-Philotheca falcata,1124,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1122-Philotheca freyciana,1125,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1123-Philotheca sporadica,1126,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1124-Phlegmariurus dalhousieanus,1127,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1125-Phlegmariurus lockyeri,1128,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1126-Phlegmariurus marsupiiformis,1129,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1127-Phlegmariurus squarrosus,1130,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1128-Phlegmariurus tetrastichoides,1131,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1130-Phyllodes imperialis smithersi,1133,species,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+1131-Phyllota humifusa,1134,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1132-Phyllurus gulbaru,1135,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+1133-Picris evae,1136,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1134-Pimelea curviflora var. curviflora,1137,species,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+1135-Pimelea leptospermoides,1138,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1136-Pimelea pagophila,1139,species,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+1137-Pimelea spicata,1140,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1138-Pimelea spinescens subsp. pubiflora,1141,species,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+1139-Pimelea spinescens subsp. spinescens,1142,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1140-Pimelea venosa,1143,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+1141-Pityrodia augustensis,1144,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1142-Pityrodia scabra,1145,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+1143-Pityrodia sp. Marble Bar (G.Woodman & D.Coultas GWDC Opp 4),1146,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1144-Planchonella eerwah,1147,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1145-Platycercus caledonicus brownii,1148,species,1,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+1146-Plectranthus gratus,1149,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1147-Plectranthus habrophyllus,1150,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1148-Plectranthus leiperi,1151,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1149-Plectranthus nitidus,1152,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1150-Plectranthus omissus,1153,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1151-Plectranthus torrenticola,1154,species,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1152-Angianthus phyllocalymmeus,1155,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1153-Plinthanthesis rodwayi,1156,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+1154-Poephila cincta cincta,1157,species,1,1,0,0,1,0,0,1,0,1,0,1,0,0,0
+1155-Polianthion minutiflorum,1158,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1156-Polyphlebium endlicherianum,1159,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1157-Polytelis alexandrae,1160,species,1,1,1,0,1,0,0,1,0,1,0,1,0,1,0
+1158-Polytelis anthopeplus monarchoides,1161,species,1,1,1,0,0,1,0,1,0,0,0,1,0,1,0
+1159-Polytelis swainsonii,1162,species,1,1,1,0,1,1,0,1,0,0,1,1,0,0,0
+1160-Pomaderris brunnea,1163,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+1161-Pomaderris clivicola,1164,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1162-Pomaderris cocoparrana,1165,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1163-Pomaderris delicata,1166,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+1164-Pomaderris gilmourii var. cana,1167,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1165-Pomaderris halmaturina subsp. halmaturina,1168,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1166-Pomaderris parrisiae,1169,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1167-Pomaderris pilifera subsp. talpicutica,1170,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1168-Pomaderris reperta,1171,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1169-Pomaderris sericea,1172,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1170-Pomaderris subplicata,1173,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+1171-Pomaderris vacciniifolia,1174,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1
+1172-Pommerhelix duralensis,1175,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1173-Poranthera petalifera,1176,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1174-Potorous gilbertii,1177,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1175-Potorous tridactylus tridactylus,1178,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1176-Prasophyllum amoenum,1179,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1177-Prasophyllum apoxychilum,1180,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1178-Prasophyllum atratum,1181,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1179-Prasophyllum castaneum,1182,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1180-Prasophyllum colemaniae,1183,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1181-Prasophyllum crebriflorum,1184,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1182-Prasophyllum diversiflorum,1185,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1183-Prasophyllum favonium,1186,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1184-Prasophyllum frenchii,1187,species,1,0,0,0,1,0,0,1,1,0,0,1,0,0,1
+1185-Prasophyllum fuscum,1188,species,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1186-Prasophyllum goldsackii,1189,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1187-Prasophyllum incorrectum,1190,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1188-Prasophyllum innubum,1191,species,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+1189-Prasophyllum keltonii,1192,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1190-Prasophyllum laxum,1193,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1191-Prasophyllum limnetes,1194,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1192-Prasophyllum milfordense,1195,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1193-Prasophyllum morganii,1196,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1194-Prasophyllum murfetii,1197,species,1,0,0,0,1,0,0,1,1,0,0,0,0,1,1
+1195-Prasophyllum perangustum,1198,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1196-Prasophyllum petilum,1199,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1197-Prasophyllum pruinosum,1200,species,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+1198-Prasophyllum pulchellum,1201,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1199-Prasophyllum robustum,1202,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1200-Prasophyllum secutum,1203,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1201-Prasophyllum sp. Wybong (C.Phelps ORG 5269),1204,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1202-Prasophyllum stellatum,1205,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1203-Prasophyllum suaveolens,1206,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1204-Prasophyllum subbisectum,1207,species,1,1,0,0,0,0,0,0,0,0,0,1,0,1,1
+1205-Prasophyllum tunbridgense,1208,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1206-Prasophyllum validum,1209,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+1207-Prasophyllum wallum,1210,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1211-Probosciger aterrimus macgillivrayi,1214,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1212-Prostanthera albohirta,1215,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1213-Prostanthera askania,1216,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1214-Prostanthera calycina,1217,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1215-Prostanthera clotteniana,1218,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1216-Prostanthera cryptandroides subsp. cryptandroides,1219,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1217-Prostanthera densa,1220,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1218-Prostanthera discolor,1221,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1219-Prostanthera galbraithiae,1222,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+1220-Prostanthera marifolia,1223,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+1221-Prostanthera nudula,1224,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1222-Prostanthera palustris,1225,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1223-Prostanthera schultzii,1226,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1224-Prostanthera sp. Dunmore (D.M.Gordon 8A),1227,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1225-Prostanthera spathulata,1228,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1226-Prostanthera staurophylla,1229,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1227-Prostanthera stricta,1230,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1228-Prototroctes maraena,1231,species,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0
+1229-Psephotus chrysopterygius,1232,species,1,0,1,0,1,0,0,1,0,1,0,0,0,1,0
+1230-Pseudemydura umbrina,1233,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1231-Pseudocheirus occidentalis,1234,species,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0
+1232-Pseudococcus markharveyi,1235,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+1233-Pseudomugil mellis,1236,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1234-Pseudomys australis,1237,species,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+1235-Pseudomys fieldi,1238,species,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1236-Pseudomys fumeus,1239,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1237-Pseudomys novaehollandiae,1240,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1238-Pseudomys oralis,1241,species,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1239-Pseudomys pilligaensis,1242,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1240-Pseudomys shortridgei,1243,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1241-Pseudophryne pengilleyi,1244,species,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+1242-Psophodes leucogaster leucogaster,1245,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1243-Psophodes nigrogularis nigrogularis,1246,species,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+1244-Pterodroma mollis,1247,species,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+1245-Pteropus conspicillatus,1248,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+1246-Pteropus poliocephalus,1249,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+1247-Pterostylis arenicola,1250,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1
+1248-Pterostylis bicornis,1251,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1249-Pterostylis bryophila,1252,species,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+1250-Pterostylis cheraphila,1253,species,1,1,0,0,0,0,0,1,0,0,0,1,0,0,1
+1251-Pterostylis commutata,1254,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1252-Pterostylis cucullata,1255,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+1253-Pterostylis despectans,1256,species,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1254-Pterostylis mirabilis,1257,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1255-Pterostylis oreophila,1258,species,1,0,0,0,1,0,0,0,1,0,0,0,1,1,0
+1256-Pterostylis pratensis,1259,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1257-Pterostylis psammophila,1260,species,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1
+1258-Pterostylis pulchella,1261,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1259-Pterostylis saxicola,1262,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1260-Pterostylis sinuata,1263,species,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0
+1261-Pterostylis sp. Botany Bay (A.Bishop J221/1-13),1264,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1262-Pterostylis sp. Hale (R.Bates 21725),1265,species,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+1263-Pterostylis tenuissima,1266,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1264-Pterostylis valida,1267,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1265-Pterostylis wapstrarum,1268,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1266-Pterostylis X aenigma,1269,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1267-Pterostylis xerophila,1270,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1268-Pterostylis ziegeleri,1271,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1269-Ptilotus beckerianus,1272,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1270-Ptilotus pyramidatus,1273,species,1,1,0,0,0,0,0,0,1,0,0,1,1,0,0
+1271-Pultenaea aristata,1274,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1272-Pultenaea baeuerlenii,1275,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1273-Pultenaea elusa,1276,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1274-Pultenaea glabra,1277,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1275-Pultenaea parrisiae,1278,species,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+1276-Pultenaea parviflora,1279,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1277-Pultenaea pauciflora,1280,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1278-Pultenaea setulosa,1281,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1279-Pultenaea sp. Genowlan Point (NSW 417813),1282,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1280-Pultenaea trichophylla,1283,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1281-Pultenaea villifera var. glabrescens,1284,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1282-Pultenaea williamsoniana,1285,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1283-Randia moorei,1286,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1284-Ranunculus prasinus,1287,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1285-Reedia spathacea,1288,species,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+1286-Rhagodia acicularis,1289,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1287-Rhaphidospora bonneyana,1290,species,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1288-Rhaponticum australe,1291,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1289-Rheodytes leukops,1292,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1291-Rhinerrhizopsis matutina,1294,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1292-Rhinolophus robertsi,1295,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1293-Rhinonicteris aurantia (Pilbara form),1296,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1294-Rhizanthella gardneri,1297,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1295-Rhizanthella slateri,1298,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1296-Ricinocarpos brevis,1299,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1297-Ricinocarpos gloria-medii,1300,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1298-Ricinocarpos trichophorus,1301,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1299-Ristantia gouldii,1302,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1300-Romnalda strobilacea,1303,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1301-Rostratula australis,1304,species,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+1302-Roycea pycnophylloides,1305,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1303-Rutidosis heterogama,1306,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1304-Rutidosis leiolepis,1307,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1305-Rytidosperma pumilum,1308,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1306-Saccolaimus saccolaimus nudicluniatus,1309,species,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+1307-Coeranoscincus reticulatus,1310,species,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+1308-Samadera bidwillii,1311,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1309-Samadera sp. Moonee Creek (J.King s.n. Nov. 1949),1312,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+1310-Sankowskya stipularis,1313,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1311-Sannantha tozerensis,1314,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1312-Sarcochilus hartmannii,1315,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1313-Sarcochilus hirticalcar,1316,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1314-Sarcochilus weinthalii,1317,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1315-Sarcophilus harrisii,1318,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1316-Breynia macrantha,1319,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1317-Scaevola macrophylla,1320,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1318-Scaturiginichthys vermeilipinnis,1321,species,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+1319-Schoenia filifolia subsp. subulifolia,1322,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1320-Sclerolaena blakei,1323,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1321-Sclerolaena napiformis,1324,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1322-Sclerolaena walkeri,1325,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1323-Selaginella andrewsii,1326,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1324-Senecio behrianus,1327,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1325-Senecio macrocarpus,1328,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,1
+1326-Senecio megaglossus,1329,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1327-Senecio psilocarpus,1330,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1328-Seringia exastia,1331,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1329-Setonix brachyurus,1332,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+1330-Sminthopsis butleri,1333,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1331-Sminthopsis douglasi,1334,species,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+1332-Sminthopsis griseoventer aitkeni,1335,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1333-Sminthopsis psammophila,1336,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1334-Solanum dissectum,1337,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1335-Solanum dunalianum,1338,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1336-Solanum johnsonianum,1339,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1337-Solanum sulphureum,1340,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1338-Sophora fraseri,1341,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1339-Sphaerolobium acanthos,1342,species,1,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+1340-Sphenotoma drummondii,1343,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1341-Spicospina flammocaerulea,1344,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1342-Spirogardnera rubescens,1345,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1343-Spyridium coactilifolium,1346,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1344-Spyridium eriocephalum var. glabrisepalum,1347,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1345-Spyridium furculentum,1348,species,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1346-Spyridium lawrencei,1349,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1347-Spyridium obcordatum,1350,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1348-Stachystemon nematophorus,1351,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1349-Stackhousia annua,1352,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1350-Stenanthemum pimeleoides,1353,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+1351-Sternula nereis nereis,1354,species,1,1,0,0,0,0,0,1,1,1,0,0,0,0,0
+1352-Stipiturus malachurus intermedius,1355,species,1,1,0,1,1,0,0,1,1,1,0,0,0,0,0
+1353-Stipiturus malachurus parimeda,1356,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+1354-Stipiturus mallee,1357,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1355-Stonesiella selaginoides,1358,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1356-Strepera fuliginosa colei,1359,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1357-Stylidium applanatum,1360,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1358-Stylidium ensatum,1361,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1359-Stylidium galioides,1362,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1360-Stylidium semaphorum,1363,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0
+1361-Styphelia longissima,1364,species,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+1362-Styphelia perileuca,1365,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1363-Swainsona murrayana,1366,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+1364-Swainsona plagiotropis,1367,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1365-Swainsona pyrophila,1368,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1366-Swainsona recta,1369,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1
+1367-Symonanthus bancroftii,1370,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1368-Symplocos baeuerlenii,1371,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1369-Synaphea quartzitica,1372,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+1370-Synaphea sp. Fairbridge Farm (D. Papenfus 696),1373,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+1371-Synaphea sp. Pinjarra (R. Davis 6578),1374,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1372-Synaphea sp. Serpentine (G.R. Brand 103),1375,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1373-Synaphea stenoloba,1376,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1374-Syzygium hodgkinsoniae,1377,species,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+1375-Syzygium moorei,1378,species,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+1376-Syzygium paniculatum,1379,species,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+1377-Syzygium velarum,1380,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1378-Tachyglossus aculeatus multiaculeatus,1381,species,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1379-Taraxacum cygnorum,1382,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+1380-Leucopatus anophthalmus,1383,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1381-Taudactylus pleione,1384,species,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0
+1382-Tecticornia flabelliformis,1385,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1383-Tephrosia leveillei,1386,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1384-Tetraria australiensis,1387,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1385-Tetratheca aphylla,1388,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1386-Tetratheca deltoidea,1389,species,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1
+1387-Tetratheca gunnii,1390,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1388-Tetratheca harperi,1391,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1389-Tetratheca juncea,1392,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1390-Tetratheca nephelioides,1393,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1391-Tetratheca paynterae,1394,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1393-Thalassarche bulleri platei,1396,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1399-Thaumatoperla alpina,1403,species,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+1400-Thelymitra adorata,1404,species,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0
+1401-Thelymitra cyanapicata,1405,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1402-Thelymitra dedmaniarum,1406,species,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+1403-Thelymitra epipactoides,1407,species,1,0,0,0,1,0,1,1,0,0,0,1,0,0,1
+1404-Thelymitra hygrophila,1408,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1405-Thelymitra jonesii,1409,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1406-Thelymitra kangaloonica,1410,species,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1407-Thelymitra mackibbinii,1411,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+1408-Thelymitra matthewsii,1412,species,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1
+1409-Thelymitra psammophila,1413,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1410-Thelymitra stellata,1414,species,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+1411-Thersites mitchellae,1415,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1412-Thesium australe,1416,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1413-Thinornis cucullatus cucullatus,1417,species,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0
+1414-Thomasia montana,1418,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1415-Thomasia sp. Green Hill (S.Paust 1322),1419,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1416-Thryptomene wittweri,1420,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1418-Thynninorchis nothofagicola,1422,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1419-Tiliqua adelaidensis,1423,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1420-Toechima pterocarpum,1424,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1421-Toechima sp. East Alligator (J.Russell-Smith 8418),1425,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1422-Trachymene scapigera,1426,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1423-Tribonanthes purpurea,1427,species,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1424-Trichanthodium baracchianum,1428,species,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+1425-Triplarina nitchaga,1429,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1426-Triplarina nowraensis,1430,species,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1427-Trisyntopa scatophaga,1431,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+1428-Trithuria occidentalis,1432,species,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+1429-Triunia robusta,1433,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1430-Tropilis callitrophilis,1434,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1431-Turnix melanogaster,1435,species,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0
+1432-Turnix varius scintillans,1436,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1
+1433-Tylophora linearis,1437,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1434-Tylophora rupicola,1438,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1435-Tylophora woollsii,1439,species,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1
+1436-Tympanocryptis condaminensis,1440,species,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+1437-Tympanocryptis pinguicolla,1441,species,1,0,0,0,1,0,0,1,0,1,0,1,0,0,0
+1438-Typhonium jonesii,1442,species,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+1439-Typhonium taylori,1443,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1440-Tyto novaehollandiae castanops (Tasmanian population),1444,species,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1
+1441-Tyto novaehollandiae kimberli,1445,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1442-Tyto novaehollandiae melvillensis,1446,species,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+1443-Uvidicolus sphyrurus,1447,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1444-Vanda hindsii,1448,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1445-Vappodes lithocola,1449,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1446-Vappodes phalaenopsis,1450,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1447-Velleia perfoliata,1451,species,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+1448-Veronica ciliolata,1452,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1449-Veronica derwentiana subsp. homalodonta,1453,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1450-Veronica parnkalliana,1454,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1451-Verticordia albida,1455,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1452-Verticordia apecta,1456,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1453-Verticordia crebra,1457,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1454-Verticordia densiflora var. pedunculata,1458,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1455-Verticordia fimbrilepis subsp. australis,1459,species,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+1456-Verticordia fimbrilepis subsp. fimbrilepis,1460,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1457-Verticordia helichrysantha,1461,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1458-Verticordia pityrhops,1462,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1459-Verticordia plumosa var. ananeotes,1463,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1460-Verticordia plumosa var. vassensis,1464,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1461-Verticordia staminosa subsp. staminosa,1465,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1462-Verticordia staminosa var. cylindracea,1466,species,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+1463-Vrydagzynea grayi,1467,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1464-Westralunio carteri,1468,species,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+1465-Westringia crassifolia,1469,species,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1466-Westringia cremnophila,1470,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1467-Westringia davidii,1471,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1468-Westringia kydrensis,1472,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1469-Westringia parvifolia,1473,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1470-Westringia rupicola,1474,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1471-Wollemia nobilis,1475,species,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+1472-Wollumbinia georgesi,1476,species,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1473-Wurmbea calcicola,1477,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1474-Wurmbea tubulosa,1478,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1475-Xanthorrhoea arenaria,1479,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1476-Xanthorrhoea bracteata,1480,species,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1477-Xanthostemon formosus,1481,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1478-Xanthostemon oppositifolius,1482,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1479-Xerochrysum palustre,1483,species,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+1480-Xeromys myoides,1484,species,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+1481-Xerothamnella herbacea,1485,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1482-Xerothamnella parvifolia,1486,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1483-Xylopia monosperma,1487,species,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+1484-Xyris exilis,1488,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1485-Zearaja maugeana,1489,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+1486-Zeuxine polygonoides,1490,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1487-Zieria adenophora,1491,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+1488-Zieria baeuerlenii,1492,species,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+1489-Zieria bifida,1493,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1490-Zieria buxijugum,1494,species,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+1491-Zieria citriodora,1495,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1492-Zieria collina,1496,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1493-Zieria covenyi,1497,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1494-Zieria floydii,1498,species,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+1495-Zieria formosa,1499,species,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+1496-Zieria granulata,1500,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1497-Zieria involucrata,1501,species,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+1498-Zieria lasiocaulis,1502,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1499-Zieria murphyi,1503,species,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1500-Zieria obcordata,1504,species,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1501-Zieria obovata,1505,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1502-Zieria parrisiae,1506,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1503-Zieria prostrata,1507,species,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+1504-Zieria rimulosa,1508,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1505-Zieria tuberculata,1509,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1506-Zieria verrucosa,1510,species,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1507-Zoothera lunulata halmaturina,1511,species,1,0,0,0,0,0,0,1,1,1,1,1,0,0,1
+1508-Zyzomys maini,1512,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+1509-Zyzomys pedunculatus,1513,species,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0

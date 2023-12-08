@@ -1,0 +1,15 @@
+Threat_aba_strategy,Low_cost_scenario,Best_cost_scenario,High_cost_scenario
+Critical_sites_access_mgmt,286,286,329
+Disease_mgmt_gen,192,192,202
+Disease_mgmt_phyto,139877,139877,140089
+Ecol_fire_regime,1461,1464,2403
+Forestry_mgmt,328,328,346
+Grazing_mgmt,1380,1380,1424
+Habitat_restoration,176164,176164,879985
+Hydrology_mgmt,486.37,486.58,494.51
+Inv_predator_mgmt,296,296,1289
+Inv_problem_bird_mgmt,664,664,868
+Inv_rabbit_mgmt,1426,1426,1761
+Inv_weed_mgmt,219,24519,146060
+Large_inv_herbivs,498,498,1201
+Native_hebivs_mgmt,483,716,1532
