@@ -15,10 +15,8 @@ all_threats_matrix_or$id_sp <- as.character(all_threats_matrix_or$id_sp)
 all_threats_matrix_or <- all_threats_matrix_or %>% mutate(weight = 1, .before = 4)
 
 
-
 # Calculating all species benefits, considered individually
 U <- matrix(1,nrow=nrow(all_threats_matrix),ncol=nrow(Cost_TAS)) 
-
 
 benefits_scenario2a <- function(){
   rs <- data.frame(species_id = all_threats_matrix$id_sp, B = NA, C = NA) #RESULTS/OUTPUT; B= BENEFIT; C= COST
@@ -52,11 +50,8 @@ benefits_scenario2a <- function(){
 
 
 # Run code
-
 combined <- benefits_scenario2a()
-
 write_csv(combined, "combined.csv")
-
 
 
 ## To remove top species/TECs for reaching budget:
@@ -75,7 +70,7 @@ adjust_U <- function(U,species){
   return(U)
 }
 
-#### WHEN I do the next round of removing the second top species, now the values for this second species get added onto the U matrix
+#### When I do the next round of removing the second top species, now the values for this second species get added onto the U matrix
 #(values=proportion of overlap of the overlapping species in the columns of the threats for species i)
 #if there is an overlapping species (species j) that overlaps with BOTH top species (species i), then the proportion of overlap of the second top species is reduced from the value already there. 
 #So e.g., if a koala and bilby overlapped by 60% of the bilby distribution, then 0.4 (1-0.6=0.4) would be added in matrix U under the columns of the threats for koala;
@@ -88,14 +83,12 @@ adjust_U <- function(U,species){
 #This means that now the code is costing ONLY for the proportion that has NOT been managed yet And when the proportion of species j that has been managed by the top species (now removed), is 1 (thus, the TOTAL area of species j), that's when the costs for species j are now 0 and CE is Inf, because all threats have been managed for it's total distribution
     
 
-
 #FUNCTION TO REMOVE THREATS FOR TOP SPECIES THAT HAVE ALREADY BEEN MANAGED:
 adjust_matrix <- function(all_threats_matrix,species){ 
   i = which(all_threats_matrix$id_sp == species) # for species located in the threat matrix which the same id-name, call it i
   all_threats_matrix[i, c(4:18)] <- 0  #then for i (determined above), transform to 0 the threat values in threats_matrix
   return(all_threats_matrix)
 }
-
 
 
 #TO REMOVE TOP SPECIES WITH A WHILE LOOP:
@@ -128,7 +121,7 @@ while(total_cost <= budget){
   scenario2a_bestcost_E <- SPTECspecies_benefits()
 }
 
+write_csv(priority_combined, "priority_list_combined.csv") #this is the output file with the list of priority species and TECs. It includes surrogate and additional features.
 
-write_csv(priority_combined, "xxx")
 
 
